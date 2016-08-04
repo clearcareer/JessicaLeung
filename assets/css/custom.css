@@ -5,3 +5,15 @@
 	font-size: 14px;
 	color: rgba(255, 255, 255, 1);
 }
+
+.btn-custom-4 {
+    background: none;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.btn-custom-4:hover, .btn-custom-4:focus, .btn-custom-4:active, .btn-custom-4.active {
+    background: transparent;
+    color: rgba(255,255,255,0.8);
+    border: 1px solid rgba(255,255,255,0.8);
+}
