@@ -5,6 +5,7 @@
  * General styles
 /* ---------------------------------------------- */
 
+@import 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Condensed';
 
 body {
 	font: 400 12px/1.8 'Open Sans', serif;
